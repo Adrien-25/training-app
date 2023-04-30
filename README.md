@@ -103,7 +103,7 @@ Dans le répertoire du client, lancez la commande npm start pour lancer l'applic
 ## Variables d'environnement
 ### Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :
 
-```
+```sh
 PORT : le port sur lequel le serveur doit écouter.  
 MONGODB_URI : l'URL de la base de données MongoDB.  
 SECRET : la clé secrète utilisée pour générer les jetons JWT.  

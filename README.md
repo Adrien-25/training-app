@@ -2,13 +2,13 @@
 ## Structure du projet
 **Voici la structure du projet :**
 
-|-- client
-|   |-- public
-|   |   |-- index.html
-|   |   |-- manifest.json
-|   |   |-- robots.txt
-|   |-- src
-|   |   |-- assets
+|-- client 
+|   |-- public 
+|   |   |-- index.html 
+|   |   |-- manifest.json 
+|   |   |-- robots.txt 
+|   |-- src 
+|   |   |-- assets 
 |   |   |   |-- images
 |   |   |   |-- styles
 |   |   |-- components

@@ -2,16 +2,16 @@
 ## Structure du projet
 **Voici la structure du projet :**
 
-|-- client 
-|   |-- public 
-|   |   |-- index.html 
-|   |   |-- manifest.json 
-|   |   |-- robots.txt 
-|   |-- src 
-|   |   |-- assets 
-|   |   |   |-- images
-|   |   |   |-- styles
-|   |   |-- components
+|-- client  
+|   |-- public  
+|   |   |-- index.html  
+|   |   |-- manifest.json  
+|   |   |-- robots.txt  
+|   |-- src  
+|   |   |-- assets  
+|   |   |   |-- images  
+|   |   |   |-- styles  
+|   |   |-- components  
 |   |   |   |-- shared
 |   |   |   |-- workout
 |   |   |   |-- nutrition

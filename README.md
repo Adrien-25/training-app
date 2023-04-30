@@ -90,9 +90,9 @@ mon-projet/
 
 ***Clonez le dépôt GitHub en utilisant la commande suivante :***  
 - Clonez le dépôt avec ***git clone https://github.com/Adrien-25/training-app.git***  
-- Installez les dépendances du serveur avec ***npm install*** dans le dossier ***server/***  
-- Installez les dépendances du client avec ***npm install*** dans le dossier ***client/***  
-- Créez un fichier ***.env*** à la racine du projet et configurez les variables d'environnement requises  
+- Installez les dépendances du serveur avec ***npm install*** dans le dossier `server`  
+- Installez les dépendances du client avec ***npm install*** dans le dossier `client`  
+- Créez un fichier `.env` à la racine du projet et configurez les variables d'environnement requises  
 - Lancez le serveur avec npm start dans le dossier `server`  
 - Démarrer l'application client avec npm start dans le dossier client.
 

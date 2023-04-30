@@ -96,14 +96,10 @@ mon-projet/
 - Lancez le serveur avec npm start dans le dossier `server`  
 - Démarrer l'application client avec npm start dans le dossier client.
 
-## Utilisation
-### Voici les étapes à suivre pour lancer l'application :
+ 
 
-Dans le répertoire du serveur, lancez la commande ***npm start*** pour lancer le serveur.  
-Dans le répertoire du client, lancez la commande ***npm start*** pour lancer l'application.  
-
-## Variables d'environnement
-### Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :
+### Variables d'environnement
+*** Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :***
 
 ```
 PORT : le port sur lequel le serveur doit écouter.  

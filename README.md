@@ -3,8 +3,8 @@
 **Voici la structure du projet :**  
 
 
-├── client  
-|   ├── public  
+├-- client  
+|   |-- public  
 |   |   ├── index.html  
 |   |   |-- manifest.json  
 |   |   |-- robots.txt  
@@ -13,124 +13,52 @@
 |   |   |   |-- images  
 |   |   |   |-- styles  
 |   |   |-- components  
-|   |   |   |-- shared  
-|   |   |   |-- workout  
-|   |   |   |-- nutrition  
-|   |   |   |-- tracking  
-|   |   |   |-- planning  
-|   |   |-- pages  
-|   |   |   |-- home  
-|   |   |   |-- workout  
-|   |   |   |-- nutrition  
-|   |   |   |-- tracking  
-|   |   |   |-- planning  
-|   |   |-- services  
-|   |   |   |-- api  
-|   |   |   |-- auth  
-|   |   |   |-- storage  
-|   |   |-- utils  
-|   |   |-- App.js  
-|   |   |-- index.js  
-|   |   |-- serviceWorker.js  
+|   |   |   |-- shared  
+|   |   |   |-- workout  
+|   |   |   |-- nutrition  
+|   |   |   |-- tracking  
+|   |   |   |-- planning  
+|   |   |-- pages  
+|   |   |   |-- home  
+|   |   |   |-- workout  
+|   |   |   |-- nutrition  
+|   |   |   |-- tracking  
+|   |   |   |-- planning  
+|   |   |-- services  
+|   |   |   |-- api  
+|   |   |   |-- auth  
+|   |   |   |-- storage  
+|   |   |-- utils  
+|   |   |-- App.js  
+|   |   |-- index.js  
+|   |   |-- serviceWorker.js  
 |-- server  
-|   |-- config  
-|   |   |-- db.js  
-|   |   |-- env.js  
-|   |   |-- index.js  
-|   |-- controllers  
-|   |   |-- authController.js  
-|   |   |-- exerciseController.js  
-|   |   |-- nutritionController.js  
-|   |   |-- trackingController.js  
-|   |   |-- workoutController.js  
-|   |-- models  
-|   |   |-- Exercise.js  
-|   |   |-- Nutrition.js  
-|   |   |-- Tracking.js  
-|   |   |-- User.js  
-|   |   |-- Workout.js  
-|   |-- routes  
-|   |   |-- auth.js  
-|   |   |-- exercise.js  
-|   |   |-- nutrition.js  
-|   |   |-- tracking.js  
-|   |   |-- workout.js  
-|   |-- app.js  
+|   |-- config  
+|   |   |-- db.js  
+|   |   |-- env.js  
+|   |   |-- index.js  
+|   |-- controllers  
+|   |   |-- authController.js  
+|   |   |-- exerciseController.js  
+|   |   |-- nutritionController.js  
+|   |   |-- trackingController.js  
+|   |   |-- workoutController.js  
+|   |-- models  
+|   |   |-- Exercise.js  
+|   |   |-- Nutrition.js  
+|   |   |-- Tracking.js  
+|   |   |-- User.js  
+|   |   |-- Workout.js  
+|   |-- routes  
+|   |   |-- auth.js  
+|   |   |-- exercise.js  
+|   |   |-- nutrition.js  
+|   |   |-- tracking.js  
+|   |   |-- workout.js  
+|   |-- app.js  
 |-- .env  
 |-- package.json  
 |-- README.md  
-
-* client
- * public
-   * (./dir2/file21.ext)
-   * (./dir2/file22.ext)
-   * (./dir2/file22.ext)
- * (./dir1)
-   * (./dir1/file11.ext)
-   * (./dir1/file12.ext)
-   * (./dir1/file12.ext)
- * (./file_in_root.ext)
- * (./README.md)
-* serveur
-
-
-.
-├── client
-│   ├── public
-│   │   ├── index.html
-│   │   ├── manifest.json
-│   │   └── robots.txt
-│   └── src
-│       ├── assets
-│       │   ├── images
-│       │   └── styles
-│       ├── components
-│       │   ├── shared
-│       │   ├── workout
-│       │   ├── nutrition
-│       │   ├── tracking
-│       │   └── planning
-│       ├── pages
-│       │   ├── home
-│       │   ├── workout
-│       │   ├── nutrition
-│       │   ├── tracking
-│       │   └── planning
-│       ├── services
-│       │   ├── api
-│       │   ├── auth
-│       │   └── storage
-│       ├── utils
-│       ├── App.js
-│       ├── index.js
-│       └── serviceWorker.js
-├── server
-│   ├── app.js
-│   ├── config
-│   │   ├── db.js
-│   │   ├── env.js
-│   │   └── index.js
-│   ├── controllers
-│   │   ├── authController.js
-│   │   ├── exerciseController.js
-│   │   ├── nutritionController.js
-│   │   ├── trackingController.js
-│   │   └── workoutController.js
-│   ├── models
-│   │   ├── Exercise.js
-│   │   ├── Nutrition.js
-│   │   ├── Tracking.js
-│   │   ├── User.js
-│   │   └── Workout.js
-│   └── routes
-│       ├── auth.js
-│       ├── exercise.js
-│       ├── nutrition.js
-│       ├── tracking.js
-│       └── workout.js
-├── .env
-├── package.json
-└── README.md
 
 
 ## Installation

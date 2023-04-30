@@ -64,6 +64,29 @@
 |-- README.md  
 
 
+```
+mon-projet/
+├── client/
+│   ├── node_modules/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   ├── package-lock.json
+│   └── README.md
+├── server/
+│   ├── node_modules/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── index.js
+│   └── package.json
+├── .env
+├── .gitignore
+└── README.md
+```
+
+
 ## Installation
 ### Voici les étapes à suivre pour installer l'application :
 

@@ -59,7 +59,8 @@
 |   ├── app.js  
 ├── .env  
 ├── package.json  
-├── README.md  
+├── .gitignore
+└── README.md  
 
 
 
@@ -80,6 +81,7 @@ mon-projet/
 │   ├── index.js
 │   └── package.json
 ├── .env
+├── package.json  
 ├── .gitignore
 └── README.md
 ```

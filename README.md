@@ -5,9 +5,9 @@
 
 |--- client  
 |   |--- public  
-|   |---|--- index.html  
-|   |   |-- manifest.json  
-|   |   |-- robots.txt  
+|   |---|--- index.html  
+|   |   |-- manifest.json  
+|   |   |-- robots.txt  
 |   |-- src  
 |   |   |-- assets  
 |   |   |   |-- images  

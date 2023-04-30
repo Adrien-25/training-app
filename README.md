@@ -3,9 +3,12 @@
 **Voici la structure du projet :**  
 
 
-├-- client  
+
+├── client
+
+|-- client  
 |   |-- public  
-|   |   ├── index.html  
+|   |   |-- index.html  
 |   |   |-- manifest.json  
 |   |   |-- robots.txt  
 |   |-- src  

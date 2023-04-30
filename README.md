@@ -4,7 +4,7 @@
 
 
 |--- client  
-|   |--- public  
+|&nbsp;|--- public  
 |---|---|--- index.html  
 |   |   |-- manifest.json  
 |   |   |-- robots.txt  

@@ -1,7 +1,8 @@
 # Documentation de l'application
 ## Structure du projet
 **Voici la structure du projet :**
-
+├── client      
+    │   ├── public
 ├── client  
 |   ├── public  
 |   |   ├── index.html  

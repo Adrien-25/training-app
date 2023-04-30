@@ -88,7 +88,8 @@ mon-projet/
 ## Installation
 ### Voici les étapes à suivre pour installer l'application :
 
-***Clonez le dépôt GitHub en utilisant la commande suivante : git clone https://github.com/votre-utilisateur/mon-projet.git.  
+***Clonez le dépôt GitHub en utilisant la commande suivante :***  
+git clone https://github.com/votre-utilisateur/mon-projet.git.  
 Allez dans le répertoire du client : cd mon-projet/client et installez les dépendances en utilisant la commande npm install.  
 Allez dans le répertoire du serveur : cd ../server et installez les dépendances en utilisant la commande npm install.  
 À la racine du projet, créez un fichier .env et ajoutez les variables d'environnement nécessaires.  
@@ -102,9 +103,11 @@ Dans le répertoire du client, lancez la commande npm start pour lancer l'applic
 ## Variables d'environnement
 ### Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :
 
+```
 PORT : le port sur lequel le serveur doit écouter.  
 MONGODB_URI : l'URL de la base de données MongoDB.  
 SECRET : la clé secrète utilisée pour générer les jetons JWT.  
+```
 
 ## Fonctionnalités
 ### L'application a les fonctionnalités suivantes :

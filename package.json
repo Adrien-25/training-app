@@ -11,8 +11,5 @@
     "url": "mern-social"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "markdown-notes-tree": "^1.12.0"
-  }
+  "license": "ISC"
 }

@@ -2,9 +2,9 @@
 ## Structure du projet
 **Voici la structure du projet :**
 
-|-- client  
-|   |-- public  
-|   |   |-- index.html  
+├── client  
+|   ├── public  
+|   |   ├── index.html  
 |   |   |-- manifest.json  
 |   |   |-- robots.txt  
 |   |-- src  

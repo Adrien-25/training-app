@@ -3,16 +3,16 @@
 **Voici la structure du projet :**  
 
 
-|--- client  
-|   |--- public  
-|   |---|--- index.html  
+├── client  
+|   ├── public  
+|   |   ├── index.html  
 |   |   |-- manifest.json  
 |   |   |-- robots.txt  
-|   |-- src  
-|   |   |-- assets  
-|   |   |   |-- images  
-|   |   |   |-- styles  
-|   |   |-- components  
+|   |-- src  
+|   |   |-- assets  
+|   |   |   |-- images  
+|   |   |   |-- styles  
+|   |   |-- components  
 |   |   |   |-- shared  
 |   |   |   |-- workout  
 |   |   |   |-- nutrition  

@@ -89,16 +89,16 @@ mon-projet/
 ### Voici les étapes à suivre pour installer l'application :
 
 ***Clonez le dépôt GitHub en utilisant la commande suivante :***  
-git clone https://github.com/votre-utilisateur/mon-projet.git.  
-Allez dans le répertoire du client : cd mon-projet/client et installez les dépendances en utilisant la commande npm install.  
-Allez dans le répertoire du serveur : cd ../server et installez les dépendances en utilisant la commande npm install.  
-À la racine du projet, créez un fichier .env et ajoutez les variables d'environnement nécessaires.  
+- git clone https://github.com/votre-utilisateur/mon-projet.git.  
+- Allez dans le répertoire du client : cd mon-projet/client et installez les dépendances en utilisant la commande npm install.  
+- Allez dans le répertoire du serveur : cd ../server et installez les dépendances en utilisant la commande npm install.  
+- À la racine du projet, créez un fichier .env et ajoutez les variables d'environnement nécessaires.  
 
 ## Utilisation
 ### Voici les étapes à suivre pour lancer l'application :
 
-Dans le répertoire du serveur, lancez la commande npm start pour lancer le serveur.  
-Dans le répertoire du client, lancez la commande npm start pour lancer l'application.  
+Dans le répertoire du serveur, lancez la commande ***npm start*** pour lancer le serveur.  
+Dans le répertoire du client, lancez la commande ***npm start*** pour lancer l'application.  
 
 ## Variables d'environnement
 ### Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :
@@ -123,8 +123,7 @@ SECRET : la clé secrète utilisée pour générer les jetons JWT.
 - PWA  
 
 ## Contributeurs
-Adrien SCHMIDT
+[Adrien SCHMIDT](https://www.linkedin.com/in/adrien-schmidt-2747871a2/)
 
 ## Licence
 Ce projet est sous licence MIT.  
-Voir le fichier LICENSE.md pour plus d'informations.  

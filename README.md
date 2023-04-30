@@ -112,15 +112,15 @@ SECRET : la clé secrète utilisée pour générer les jetons JWT.
 ## Fonctionnalités
 ### L'application a les fonctionnalités suivantes :
 
--Création de programmes d'entraînement personnalisés  
+- Création de programmes d'entraînement personnalisés  
 - Suivi de progrès  
-Planification de séances  
-Base de données d'exercices  
-Conseils nutritionnels  
-Suivi de diètes  
-Partage de données avec d'autres applications  
-Thème sombre et clair  
-PWA  
+- Planification de séances  
+- Base de données d'exercices  
+- Conseils nutritionnels  
+- Suivi de diètes  
+- Partage de données avec d'autres applications  
+- Thème sombre et clair  
+- PWA  
 
 ## Contributeurs
 Adrien SCHMIDT

@@ -75,51 +75,62 @@
 
 
 .
-├── README.md
 ├── client
-│   ├── package-lock.json
-│   ├── package.json
-│   ├── public
-│   │   ├── favicon.ico
-│   │   ├── index.html
-│   │   ├── logo192.png
-│   │   ├── logo512.png
-│   │   └── manifest.json
-│   └── src
-│       ├── App.js
-│       ├── assets
-│       ├── components
-│       ├── index.js
-│       ├── pages
-│       └── services
-├── package-lock.json
+│   ├── public
+│   │   ├── index.html
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   └── src
+│       ├── assets
+│       │   ├── images
+│       │   └── styles
+│       ├── components
+│       │   ├── shared
+│       │   ├── workout
+│       │   ├── nutrition
+│       │   ├── tracking
+│       │   └── planning
+│       ├── pages
+│       │   ├── home
+│       │   ├── workout
+│       │   ├── nutrition
+│       │   ├── tracking
+│       │   └── planning
+│       ├── services
+│       │   ├── api
+│       │   ├── auth
+│       │   └── storage
+│       ├── utils
+│       ├── App.js
+│       ├── index.js
+│       └── serviceWorker.js
+├── server
+│   ├── app.js
+│   ├── config
+│   │   ├── db.js
+│   │   ├── env.js
+│   │   └── index.js
+│   ├── controllers
+│   │   ├── authController.js
+│   │   ├── exerciseController.js
+│   │   ├── nutritionController.js
+│   │   ├── trackingController.js
+│   │   └── workoutController.js
+│   ├── models
+│   │   ├── Exercise.js
+│   │   ├── Nutrition.js
+│   │   ├── Tracking.js
+│   │   ├── User.js
+│   │   └── Workout.js
+│   └── routes
+│       ├── auth.js
+│       ├── exercise.js
+│       ├── nutrition.js
+│       ├── tracking.js
+│       └── workout.js
+├── .env
 ├── package.json
-└── server
-    ├── config
-    │   ├── db.js
-    │   ├── env.js
-    │   └── index.js
-    ├── controllers
-    │   ├── authController.js
-    │   ├── exerciseController.js
-    │   ├── nutritionController.js
-    │   ├── trackingController.js
-    │   └── workoutController.js
-    ├── index.js
-    ├── models
-    │   ├── Exercise.js
-    │   ├── Nutrition.js
-    │   ├── Tracking.js
-    │   ├── User.js
-    │   └── Workout.js
-    ├── package-lock.json
-    ├── package.json
-    └── routes
-        ├── auth.js
-        ├── exercise.js
-        ├── nutrition.js
-        ├── tracking.js
-        └── workout.js
+└── README.md
 
 
 ## Installation

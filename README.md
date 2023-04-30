@@ -103,7 +103,7 @@ Dans le répertoire du client, lancez la commande npm start pour lancer l'applic
 ## Variables d'environnement
 ### Le fichier .env contient les variables d'environnement nécessaires pour l'application. Voici les variables à définir :
 
-```sh
+```
 PORT : le port sur lequel le serveur doit écouter.  
 MONGODB_URI : URL de la base de données MongoDB.  
 SECRET : la clé secrète utilisée pour générer les jetons JWT. 
@@ -112,8 +112,8 @@ SECRET : la clé secrète utilisée pour générer les jetons JWT.
 ## Fonctionnalités
 ### L'application a les fonctionnalités suivantes :
 
-Création de programmes d'entraînement personnalisés  
-Suivi de progrès  
+-Création de programmes d'entraînement personnalisés  
+- Suivi de progrès  
 Planification de séances  
 Base de données d'exercices  
 Conseils nutritionnels  
